@@ -127,7 +127,7 @@ customer-churn-project/
 
 ## 🏃 Run Locally
 ```bash
-git clone https://github.com/Navin1114-collab/customer-churn-project.git
+git clone https://github.com/navinnagisetty/customer-churn-project.git
 cd customer-churn-project
 pip install -r requirements.txt
 
@@ -145,4 +145,4 @@ streamlit run dashboard.py
 **Navin Kumar Nagisetty**
 📧 navinnagisetty@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/navinnagisetty/)
-🐙 [GitHub](https://github.com/Navin1114-collab)
+🐙 [GitHub](https://github.com/navinnagisetty)
